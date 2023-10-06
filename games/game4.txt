@@ -1,0 +1,6 @@
+Encounter 1
+Louse 5
+Louse 5
+
+Encounter 2
+Louse 5
